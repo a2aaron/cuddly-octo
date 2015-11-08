@@ -5,7 +5,7 @@ test git to learn py and git
 ## Dependencies
 Install nosetests with either
 ```
-$ pip install nose`
+$ pip install nose
 ```
 or
 ```
